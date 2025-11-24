@@ -74,9 +74,3 @@ A comprehensive e-commerce architecture simulating real-world shopping experienc
 #### [Smart Invoice Automation](https://github.com/EmirhanTn/Akilli-Fatura-Otomasyonu)
 Python-based automation tool for parsing and processing e-invoices.
 * **Focus:** Reducing manual data entry using OCR and PDF parsing libraries.
-
----
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EmirhanTn&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="GitHub Stats" />
-</div>
