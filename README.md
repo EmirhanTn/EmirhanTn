@@ -37,7 +37,7 @@ Combining academic discipline with real-world corporate experience. My backgroun
 
 ---
 
-### 🎓 Education
+### Education
 
 | Institution | Degree & Field | Period |
 | :--- | :--- | :--- |
