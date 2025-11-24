@@ -41,7 +41,7 @@ Combining academic discipline with real-world corporate experience. My backgroun
 
 | Institution | Degree & Field | Period |
 | :--- | :--- | :--- |
-| **Bandırma Onyedi Eylül University** | 🎓 B.S. in **Software Engineering** | ![Time](https://img.shields.io/badge/2022%20--%202025-Completed-gray?style=flat-square&logo=gitbook) |
+| **Bandırma Onyedi Eylül University** | 🎓 B.S. in **Software Engineering** | ![Time](https://img.shields.io/badge/2022%20--%202025-Completed-gray?style=flat-square) |
 | **Manisa Celal Bayar University** | 📚 **Software Engineering** (Transferred) | ![Time](https://img.shields.io/badge/2021%20--%202022-Completed-gray?style=flat-square) |
 
 ---
