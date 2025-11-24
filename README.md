@@ -19,7 +19,7 @@
 
 ### Summary
 
-I am a Software Engineering student at **Bandırma Onyedi Eylül University**, combining academic discipline with real-world corporate experience. My background includes internships at major financial and tech institutions, where I honed my skills in backend development and database management.
+Combining academic discipline with real-world corporate experience. My background includes internships at major financial and tech institutions, where I honed my skills in backend development and database management.
 
 * **Engineering Mindset:** Supported by **TÜBİTAK 2209-A** for academic research projects.
 * **Leadership:** Proven team leadership skills through **AIESEC** global volunteering programs.
@@ -34,6 +34,15 @@ I am a Software Engineering student at **Bandırma Onyedi Eylül University**, c
 | **Software Developer (Intern)** | **Alaca Yazılım** | *SQL Server, IT Infrastructure, Database Management* |
 | **Software Engineer (Intern)** | **Halkbank** | *.NET Development, C#, Corporate Banking Solutions* |
 | **Team Leader** | **AIESEC Türkiye** | *Team Management, Strategic Planning, Global Talent Operations* |
+
+---
+
+### 🎓 Education
+
+| Institution | Degree & Field | Period |
+| :--- | :--- | :--- |
+| **Bandırma Onyedi Eylül University** | 🎓 B.S. in **Software Engineering** | ![Time](https://img.shields.io/badge/2022%20--%202025-Current-blue?style=flat-square&logo=gitbook) |
+| **Manisa Celal Bayar University** | 📚 **Software Engineering** (Transferred) | ![Time](https://img.shields.io/badge/2021%20--%202022-Completed-gray?style=flat-square) |
 
 ---
 
