@@ -17,7 +17,7 @@
 
 <br />
 
-### 👨‍💻 Professional Summary
+### Summary
 
 I am a Software Engineering student at **Bandırma Onyedi Eylül University**, combining academic discipline with real-world corporate experience. My background includes internships at major financial and tech institutions, where I honed my skills in backend development and database management.
 
@@ -27,7 +27,7 @@ I am a Software Engineering student at **Bandırma Onyedi Eylül University**, c
 
 ---
 
-### 💼 Experience
+### Experience
 
 | Role | Company | Focus Area |
 | :--- | :--- | :--- |
@@ -37,7 +37,7 @@ I am a Software Engineering student at **Bandırma Onyedi Eylül University**, c
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 | Domain | Technologies |
 | :--- | :--- |
@@ -47,9 +47,9 @@ I am a Software Engineering student at **Bandırma Onyedi Eylül University**, c
 
 ---
 
-### 🚀 Key Projects
+### Key Projects
 
-#### 🏆 [Academic Scheduling System (Öğretmen Ders Programı Yönetimi)](https://github.com/EmirhanTn/DersProgramiYonetimi)
+#### [Academic Scheduling System (Öğretmen Ders Programı Yönetimi)](https://github.com/EmirhanTn/DersProgramiYonetimi)
 > *Supported by **TÜBİTAK 2209-A Research Project Support Programme**.*
 
 A web-based solution designed to solve the complex problem of scheduling weekly curriculums for university faculty.
@@ -57,12 +57,12 @@ A web-based solution designed to solve the complex problem of scheduling weekly 
 * **Solution:** Developed an algorithm using **ASP.NET MVC** and **C#** to automate and validate schedule creation.
 * **Status:** Research & Development Complete.
 
-#### 🛒 [E-Commerce Platform](https://github.com/EmirhanTn/eTicaret)
+#### [E-Commerce Platform](https://github.com/EmirhanTn/eTicaret)
 A comprehensive e-commerce architecture simulating real-world shopping experiences.
 * **Features:** Product listing, cart management, user authentication, and order tracking.
 * **Tech:** Built with **ASP.NET MVC** utilizing modern design patterns.
 
-#### 🧾 [Smart Invoice Automation](https://github.com/EmirhanTn/Akilli-Fatura-Otomasyonu)
+#### [Smart Invoice Automation](https://github.com/EmirhanTn/Akilli-Fatura-Otomasyonu)
 Python-based automation tool for parsing and processing e-invoices.
 * **Focus:** Reducing manual data entry using OCR and PDF parsing libraries.
 
